@@ -1,0 +1,141 @@
+﻿Location,Date,RAltitude,RTemp,RWind,RPrecip,RHumid
+"Angus, Scotland",7/19/18,59,73,11,,0.44
+"Angus, Scotland",7/20/18,59,64,9,,0.9
+"Angus, Scotland",7/21/18,59,75,11,,0.64
+"Angus, Scotland",7/22/18,59,79,21,,0.6
+Atlanta,9/20/18,1050,93,4,,0.41
+Atlanta,9/21/18,1050,90,4,,0.46
+Atlanta,9/22/18,1050,90,6,,0.5
+Atlanta,9/23/18,1050,90,7,,0.44
+Atlanta,9/22/16,1050,90,5,,0.45
+Atlanta,9/23/16,1050,90,6,,0.47
+Atlanta,9/24/16,1050,91,4,,0.4
+Atlanta,9/25/16,1050,91,4,,0.35
+Atlanta,9/24/15,1050,73,7,,0.5
+Atlanta,9/25/15,1050,66,6,,0.88
+Atlanta,9/26/15,1050,70,7,1,0.91
+Atlanta,9/27/15,1050,73,9,,0.77
+Augusta,4/5/18,136,85,12,,0.27
+Augusta,4/6/18,136,81,6,,0.24
+Augusta,4/7/18,136,70,7,,0.24
+Augusta,4/8/18,136,75,7,1,0.7
+Augusta,4/6/17,136,64,13,,0.34
+Augusta,4/7/17,136,66,16,,0.26
+Augusta,4/8/17,136,72,3,,0.2
+Augusta,4/9/17,136,72,7,,0.23
+Augusta,4/7/16,136,73,11,,0.36
+Augusta,4/8/16,136,68,13,,0.31
+Augusta,4/9/16,136,66,14,,0.14
+Augusta,4/10/16,136,64,6,,0.29
+Augusta,4/9/15,136,90,11,,0.42
+Augusta,4/10/15,136,84,9,,0.51
+Augusta,4/11/15,136,82,4,,0.41
+Augusta,4/12/15,136,75,11,,0.39
+Charlotte,8/10/17,761,84,4,,0.56
+Charlotte,8/11/17,761,82,6,,0.83
+Charlotte,8/12/17,761,90,4,,0.67
+Charlotte,8/13/17,761,90,7,,0.64
+"Erin, Wisconsin",6/15/17,59,86,11,,0.36
+"Erin, Wisconsin",6/16/17,59,84,6,,0.47
+"Erin, Wisconsin",6/17/17,59,79,7,,0.66
+"Erin, Wisconsin",6/18/17,59,73,16,,0.51
+Glasgow,7/14/16,20,66,9,1,0.57
+Glasgow,7/15/16,20,66,12,1,0.93
+Glasgow,7/16/16,20,59,18,,0.77
+Glasgow,7/17/16,20,61,14,,0.78
+Houston,3/29/18,105,79,11,,0.63
+Houston,3/30/18,105,75,9,,0.63
+Houston,3/31/18,105,77,12,,0.63
+Houston,4/1/18,105,81,12,,0.68
+Houston,3/30/17,105,67,9,,0.49
+Houston,3/31/17,105,78,12,,0.5
+Houston,4/1/17,105,79,12,,0.62
+Houston,4/2/17,105,81,10,,0.74
+Houston,3/31/16,105,77,7,,0.9
+Houston,4/1/16,105,70,20,,0.45
+Houston,4/2/16,105,73,12,,0.25
+Houston,4/3/16,105,75,3,,0.31
+Houston,4/2/15,105,82,14,,0.62
+Houston,4/3/15,105,81,9,,0.74
+Houston,4/4/15,105,73,12,,0.54
+Houston,4/5/15,105,70,7,1,0.94
+"Kohler, Wisconsin",8/13/15,686,84,19,,0.58
+"Kohler, Wisconsin",8/14/15,686,90,11,,0.6
+"Kohler, Wisconsin",8/15/15,686,81,8,,0.69
+"Kohler, Wisconsin",8/16/15,686,86,12,,0.59
+Ponte Vedra,5/10/18,0,82,13,,0.55
+Ponte Vedra,5/11/18,0,90,10,,0.56
+Ponte Vedra,5/12/18,0,84,15,,0.6
+Ponte Vedra,5/13/18,0,82,10,,0.69
+Ponte Vedra,5/11/17,0,93,9,,0.32
+Ponte Vedra,5/12/17,0,91,13,,0.33
+Ponte Vedra,5/13/17,0,84,12,,0.71
+Ponte Vedra,5/14/17,0,79,16,,0.7
+Ponte Vedra,5/12/16,0,82,13,,0.64
+Ponte Vedra,5/13/16,0,88,11,,0.63
+Ponte Vedra,5/14/16,0,88,10,,0.27
+Ponte Vedra,5/15/16,0,79,10,,0.5
+Ponte Vedra,5/7/15,0,81,15,,0.52
+Ponte Vedra,5/8/15,0,88,9,,0.52
+Ponte Vedra,5/9/15,0,82,10,,0.6
+Ponte Vedra,5/10/15,0,84,12,,0.63
+San Diego,1/26/17,62,57,12,,0.59
+San Diego,1/27/17,62,63,13,,0.37
+San Diego,1/28/17,62,64,10,,0.41
+San Diego,1/29/17,62,73,7,,0.25
+San Diego,1/25/18,62,63,9,,0.73
+San Diego,1/26/18,62,63,14,,0.52
+San Diego,1/27/18,62,66,12,,0.44
+San Diego,1/28/18,62,81,6,,0.28
+San Diego,1/28/16,62,64,9,,0.68
+San Diego,1/29/16,62,66,6,,0.65
+San Diego,1/30/16,62,61,8,,0.97
+San Diego,1/31/16,62,57,26,,0.93
+San Diego,2/5/15,62,66,7,,0.71
+San Diego,2/6/15,62,72,9,,0.61
+San Diego,2/7/15,62,66,15,,0.66
+San Diego,2/8/15,62,68,16,,0.76
+Scottsdale,2/1/18,1257,79,2,,0.15
+Scottsdale,2/2/18,1257,77,3,,0.15
+Scottsdale,2/3/18,1257,75,4,,0.17
+Scottsdale,2/4/18,1257,79,2,,0.18
+Scottsdale,2/2/17,1257,70,2,,0.22
+Scottsdale,2/3/17,1257,70,1,,0.28
+Scottsdale,2/4/17,1257,73,3,,0.21
+Scottsdale,2/5/17,1257,73,2,,0.2
+Scottsdale,2/4/16,1257,63,3,,0.12
+Scottsdale,2/5/16,1257,66,9,,0.13
+Scottsdale,2/6/16,1257,73,1,,0.1
+Scottsdale,2/7/16,1257,79,2,,0.12
+Scottsdale,1/29/15,1257,70,2,,0.49
+Scottsdale,1/30/15,1257,55,2,1,0.9
+Scottsdale,1/31/15,1257,61,4,,0.72
+Scottsdale,2/1/15,1257,66,4,,0.51
+Santa Rosa,6/16/16,164,70,6,,0.63
+Santa Rosa,6/17/16,164,70,8,,0.68
+Santa Rosa,6/18/16,164,79,7,,0.36
+Santa Rosa,6/19/16,164,86,8,,0.18
+"Southport, Merseyside, North West England",7/20/17,0,66,11,,0.59
+"Southport, Merseyside, North West England",7/21/17,0,66,16,,0.79
+"Southport, Merseyside, North West England",7/22/17,0,68,8,,0.63
+"Southport, Merseyside, North West England",7/23/17,0,66,14,,0.71
+"Springfield, New Jersey",7/28/16,138,95,5,,0.46
+"Springfield, New Jersey",7/29/16,138,82,3,,0.69
+"Springfield, New Jersey",7/30/16,138,81,4,1,0.63
+"Springfield, New Jersey",7/31/16,138,79,4,,0.81
+St Andrews,7/16/15,50,59,16,,0.86
+St Andrews,7/17/15,50,64,19,,0.65
+St Andrews,7/18/15,50,64,29,,0.51
+St Andrews,7/19/15,50,59,8,,0.85
+"Tahoe, New York",6/14/18,10,82,6,,0.3
+"Tahoe, New York",6/15/18,10,73,3,,0.48
+"Tahoe, New York",6/16/18,10,82,1,,0.28
+"Tahoe, New York",6/17/18,10,90,3,,0.28
+"Town and Country, Missouri",8/9/18,6,88,8,,0.48
+"Town and Country, Missouri",8/10/18,6,95,6,,0.67
+"Town and Country, Missouri",8/11/18,6,88,9,,0.4
+"Town and Country, Missouri",8/12/18,6,90,6,,0.46
+"University Place, Washington",6/18/15,200,73,6,,0.48
+"University Place, Washington",6/19/15,200,73,7,,0.38
+"University Place, Washington",6/20/15,200,77,6,,0.4
+"University Place, Washington",6/21/15,200,75,6,,0.35
