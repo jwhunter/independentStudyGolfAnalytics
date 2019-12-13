@@ -75,4 +75,4 @@ Events: Number of events the golfer played that season
 The R code of my data cleansing, wrangling, and regression analysis.
 
 # Report.docx
-The full report that outlines my analysis in detail, with visualizations and key metrics.
+The full report that outlines my analysis in detail, with visualizations, key metrics, and conclusions.
